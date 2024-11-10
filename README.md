@@ -29,4 +29,12 @@ The model is evaluated based on precision, recall, and F1-score across various e
 ## Results
 The bidirectional LSTM model achieved high performance on the NER task, demonstrating strong results in terms of precision, recall, and F1-score. The bidirectional structure helps capture the context on both sides of each word, which is especially beneficial for complex, context-dependent entity recognition.
 
+## License
+This project is licensed under the MIT License.
 
+## Contact
+For any questions or feedback regarding the project, please feel free to contact me via the email provided below.
+
+- <a href="https://www.linkedin.com/in/devika-b-826637288/"> Devika B (LinkedIn)</a>
+
+- E-mail:- devikab140@gmail.com
